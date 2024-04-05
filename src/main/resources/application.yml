@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://monorail.proxy.rlwy.net:58946/railway
+    username: postgres
+    password: VhHphmkgCKdTgmAVZibaakRjTVqSunbF
+  jpa:
+    hibernate:
+      ddl-auto: update
